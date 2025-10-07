@@ -1,6 +1,7 @@
 # Game of Life
 
 A Python implementation of Conway's Game of Life, a zero-player cellular automaton where cells on a grid live, die, or reproduce based on simple rules. This version includes random initial states, optional predefined life forms, and an interactive start/stop animation button.
+![alt text](images/image.png)
 
 ## Features
 
